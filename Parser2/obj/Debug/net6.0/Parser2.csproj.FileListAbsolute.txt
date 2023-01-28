@@ -1,0 +1,12 @@
+F:\Восстановлено\Учимся кодить\Parser2\Parser2\bin\Debug\net6.0\Parser2.deps.json
+F:\Восстановлено\Учимся кодить\Parser2\Parser2\bin\Debug\net6.0\Parser2.dll
+F:\Восстановлено\Учимся кодить\Parser2\Parser2\bin\Debug\net6.0\Parser2.pdb
+F:\Восстановлено\Учимся кодить\Parser2\Parser2\obj\Debug\net6.0\Parser2.csproj.AssemblyReference.cache
+F:\Восстановлено\Учимся кодить\Parser2\Parser2\obj\Debug\net6.0\Parser2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Восстановлено\Учимся кодить\Parser2\Parser2\obj\Debug\net6.0\Parser2.AssemblyInfoInputs.cache
+F:\Восстановлено\Учимся кодить\Parser2\Parser2\obj\Debug\net6.0\Parser2.AssemblyInfo.cs
+F:\Восстановлено\Учимся кодить\Parser2\Parser2\obj\Debug\net6.0\Parser2.csproj.CoreCompileInputs.cache
+F:\Восстановлено\Учимся кодить\Parser2\Parser2\obj\Debug\net6.0\Parser2.dll
+F:\Восстановлено\Учимся кодить\Parser2\Parser2\obj\Debug\net6.0\refint\Parser2.dll
+F:\Восстановлено\Учимся кодить\Parser2\Parser2\obj\Debug\net6.0\Parser2.pdb
+F:\Восстановлено\Учимся кодить\Parser2\Parser2\obj\Debug\net6.0\ref\Parser2.dll
